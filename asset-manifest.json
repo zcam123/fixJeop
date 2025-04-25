@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fixJeop/static/css/main.f4f78154.css",
-    "main.js": "/fixJeop/static/js/main.9d666441.js",
+    "main.js": "/fixJeop/static/js/main.a6e82ca0.js",
     "static/media/Swiss921-BT_43276.ttf": "/fixJeop/static/media/Swiss921-BT_43276.10ddcaee075a6fe89dbb.ttf",
     "static/media/korinna.ttf": "/fixJeop/static/media/korinna.035454f8ecc15f8cb240.ttf",
     "index.html": "/fixJeop/index.html",
     "main.f4f78154.css.map": "/fixJeop/static/css/main.f4f78154.css.map",
-    "main.9d666441.js.map": "/fixJeop/static/js/main.9d666441.js.map"
+    "main.a6e82ca0.js.map": "/fixJeop/static/js/main.a6e82ca0.js.map"
   },
   "entrypoints": [
     "static/css/main.f4f78154.css",
-    "static/js/main.9d666441.js"
+    "static/js/main.a6e82ca0.js"
   ]
 }
