@@ -126,7 +126,7 @@ function GameLoader(props: GameLoaderProps) {
         alt="test" 
         style={{ 
           display: 'block', 
-          margin: '-15px auto 20px auto',
+          margin: '20px auto 20px auto',
           maxWidth: '500px', 
           height: 'auto' 
         }} 
